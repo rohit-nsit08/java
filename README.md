@@ -1,2 +1,2 @@
 # java
-java examples of latest stuff.
+java8 examples
